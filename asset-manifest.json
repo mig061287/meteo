@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mig061287/meteo.git/static/css/main.c4f76aea.chunk.css",
-    "main.js": "/mig061287/meteo.git/static/js/main.d27ef10f.chunk.js",
-    "main.js.map": "/mig061287/meteo.git/static/js/main.d27ef10f.chunk.js.map",
-    "runtime-main.js": "/mig061287/meteo.git/static/js/runtime-main.2cda0a25.js",
-    "runtime-main.js.map": "/mig061287/meteo.git/static/js/runtime-main.2cda0a25.js.map",
-    "static/js/2.8600f326.chunk.js": "/mig061287/meteo.git/static/js/2.8600f326.chunk.js",
-    "static/js/2.8600f326.chunk.js.map": "/mig061287/meteo.git/static/js/2.8600f326.chunk.js.map",
-    "static/js/3.e02982b8.chunk.js": "/mig061287/meteo.git/static/js/3.e02982b8.chunk.js",
-    "static/js/3.e02982b8.chunk.js.map": "/mig061287/meteo.git/static/js/3.e02982b8.chunk.js.map",
-    "index.html": "/mig061287/meteo.git/index.html",
-    "static/css/main.c4f76aea.chunk.css.map": "/mig061287/meteo.git/static/css/main.c4f76aea.chunk.css.map",
-    "static/js/2.8600f326.chunk.js.LICENSE.txt": "/mig061287/meteo.git/static/js/2.8600f326.chunk.js.LICENSE.txt",
-    "static/media/pngwing.f7c59330.png": "/mig061287/meteo.git/static/media/pngwing.f7c59330.png"
+    "main.css": "/meteo/static/css/main.c4f76aea.chunk.css",
+    "main.js": "/meteo/static/js/main.d27ef10f.chunk.js",
+    "main.js.map": "/meteo/static/js/main.d27ef10f.chunk.js.map",
+    "runtime-main.js": "/meteo/static/js/runtime-main.505fdb2a.js",
+    "runtime-main.js.map": "/meteo/static/js/runtime-main.505fdb2a.js.map",
+    "static/js/2.8600f326.chunk.js": "/meteo/static/js/2.8600f326.chunk.js",
+    "static/js/2.8600f326.chunk.js.map": "/meteo/static/js/2.8600f326.chunk.js.map",
+    "static/js/3.e02982b8.chunk.js": "/meteo/static/js/3.e02982b8.chunk.js",
+    "static/js/3.e02982b8.chunk.js.map": "/meteo/static/js/3.e02982b8.chunk.js.map",
+    "index.html": "/meteo/index.html",
+    "static/css/main.c4f76aea.chunk.css.map": "/meteo/static/css/main.c4f76aea.chunk.css.map",
+    "static/js/2.8600f326.chunk.js.LICENSE.txt": "/meteo/static/js/2.8600f326.chunk.js.LICENSE.txt",
+    "static/media/pngwing.f7c59330.png": "/meteo/static/media/pngwing.f7c59330.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cda0a25.js",
+    "static/js/runtime-main.505fdb2a.js",
     "static/js/2.8600f326.chunk.js",
     "static/css/main.c4f76aea.chunk.css",
     "static/js/main.d27ef10f.chunk.js"
